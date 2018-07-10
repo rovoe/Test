@@ -3,7 +3,7 @@
 In diesem Readme sollen die notwendigen Informationen zum Betrieb der abgegebenen Software kurz erläutert werden.
 
 ## 01 Starten des Servers
-
+Anleitung:
 1. Doppelklick auf die .jar-Datei "Server".
 2. Klick "Erstelle Spiel"
 3. Eingabe der gewünschten Konfiguration
@@ -14,11 +14,11 @@ In diesem Readme sollen die notwendigen Informationen zum Betrieb der abgegebene
 
 
 ## 02 Anmelden von Clients beim Server
-
+Anleitung:
 
 
 ## 03 Starte ein Spiel
-
+Anleitung:
 
 
 ## 04 Nutzung Smartphone-Beobachter
@@ -27,6 +27,7 @@ Vorbedingungen:
 - Ein laufender Server unter localhost#33100.
 - Eine geöffnete Lobby/laufendes Spiel.
 
+Anleitung:
 1. Installation der .apk-Datei
 2. Öffnen aus Launcher
 3. Name eingeben (optional)
@@ -35,3 +36,4 @@ Vorbedingungen:
 6. profit.
 
 ## 05 Laden und Starten des Engine-Teilnehmers
+Anleitung:
