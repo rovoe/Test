@@ -17,11 +17,11 @@ In diesem Readme sollen die notwendigen Informationen zum Betrieb der abgegebene
 
 
 
-## Starte ein Spiel
+## 03 Starte ein Spiel
 
 
 
-## Nutzung Smartphone-Beobachter
+## 04 Nutzung Smartphone-Beobachter
 
 Vorbedingungen:
 - Ein laufender Server unter localhost#33100.
@@ -34,5 +34,4 @@ Vorbedingungen:
 5. "Join" antippen
 6. profit.
 
-## Laden und Starten des Engine-Teilnehmers
-
+## 05 Laden und Starten des Engine-Teilnehmers
